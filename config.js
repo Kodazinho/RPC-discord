@@ -2,16 +2,16 @@
 
 module.exports = {
     // spotify/game/twitch
-    "mode": "", 
+    "mode": "game", 
     // dnd/online/idle
-    "status": "",
+    "status": "idle",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "123",
 
-        "name": "", // title
-        "details": "", // first row below title
-        "state": "", // row below first row
+        "name": "ASsdf", // title
+        "details": "fsdf", // first row below title
+        "state": "gs", // row below first row
 
         "largeImageKey": "", // Large Image
         "largeImageText": "", // the text when img surrounded (default is largeimage name in dev portal)
